@@ -1,0 +1,8 @@
+{
+    "max_views": 150,
+    "concurrent_instances": 3,
+    "view_duration": 50,
+    "use_proxy": true,
+    "proxy_file": "C:/Users/bot/Desktop/need/resources/ips-demdead.txt",
+    "show_log": true
+}

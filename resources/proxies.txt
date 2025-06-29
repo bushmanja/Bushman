@@ -1,0 +1,5 @@
+# Format: host,port,username,password
+brd.superproxy.io,33335,brd-customer-hl_582e6b3f-zone-us-ip-185.96.133.239,7wlib0d2kq0q
+brd.superproxy.io,33335,brd-customer-hl_582e6b3f-zone-us-ip-185.96.133.245,7wlib0d2kq0q
+brd.superproxy.io,33335,brd-customer-hl_582e6b3f-zone-us-ip-185.96.133.249,7wlib0d2kq0q
+brd.superproxy.io,33335,brd-customer-hl_582e6b3f-zone-us-ip-185.96.133.25,7wlib0d2kq0q
